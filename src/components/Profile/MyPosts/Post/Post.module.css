@@ -1,0 +1,13 @@
+
+.item {
+    color: rgb(194, 157, 157)
+}
+.item img {
+    width: 80px;
+    /* height: 80px; */
+
+    border: 1px solid black;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
